@@ -1,0 +1,6 @@
+[submodule "third_party/boringssl"]
+	path = third_party/boringssl
+	url = https://boringssl.googlesource.com/boringssl
+[submodule "third_party/brotli"]
+	path = third_party/brotli
+	url = https://github.com/google/brotli

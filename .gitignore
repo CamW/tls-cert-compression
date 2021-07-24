@@ -1,3 +1,11 @@
+# Built executables
+tls_server
+tls_client
+
+# Tools
+.vscode
+.DS_Store
+
 # Prerequisites
 *.d
 
