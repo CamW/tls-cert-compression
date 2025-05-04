@@ -5,6 +5,7 @@ tls_client
 # Tools
 .vscode
 .DS_Store
+infer-out
 
 # Prerequisites
 *.d
@@ -49,6 +50,7 @@ tls_client
 *.su
 *.idb
 *.pdb
+*.bin
 
 # Kernel Module Compile Results
 *.mod*
